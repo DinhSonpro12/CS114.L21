@@ -1,0 +1,17 @@
+3 ví dụ về ứng dụng của linear regression:
+
++1) Dự đoán lượng mưa của ngày tiếp theo:
+
+input: nhiệt độ, độ ẩm,.. của ngày hôm nay
+output: lượng mưa dự đoán của ngày hôm sau
+cách xử lý input: lưu các giá trị số thực của input vào 1 vecto.
++2) Dự đoán về chiều cao nguời:
+
+input: cân nặng, độ tuổi, giới tính
+output: chiều cao được dự đoán
+cách xử lý input: lưu trữ các giá trị số thực input vào vecto.
++3) Dự đoán tiền điện của 1 gia đình:
+
+input: số nguời trong gia đình, số thiết bị điện tử, số ngày có sử dụng nguồn điện,
+output: tiền điện của gia đình được dự đoán
+cách xử lý input: lưu các giá trị sô thực của input vào vecto.
